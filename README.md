@@ -1,3 +1,3 @@
 # 2d
 
-this is a readme
+my current objective is to make a terraria inspired side view game
